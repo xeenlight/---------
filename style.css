@@ -1,0 +1,32 @@
+.center {
+    text-align: center;
+  }
+  
+  .right {
+    text-align: right;
+  }
+  
+  .justify {
+    text-align: justify;
+  }
+  h1{
+    text-align: center;
+  }
+  body { 
+
+    background-color: #111111; 
+    
+    }
+    h1, h2, h3, p, ol, ul{
+        color:#ffffff
+    }
+    a, u{
+        color:#fbff4d
+    }
+    #photo{
+        width: 700px;;
+    }
+    #men{
+        width: 1100px;
+    }
+    
